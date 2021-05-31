@@ -10,7 +10,7 @@ from center_finder import CenterFinder
 
 
 window_name = 'pink_brain'
-is_background = False
+is_background = True
 
 
 def run():
